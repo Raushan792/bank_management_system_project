@@ -33,4 +33,5 @@ The application uses Streamlit to provide an interactive web interface for perfo
 ## Purpose of the Project
 
 The goal of this project is to demonstrate Python programming, data handling with JSON, and building interactive applications using Streamlit.
+bank management system
 
