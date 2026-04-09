@@ -30,7 +30,7 @@ All user account data is stored in a local JSON file (`data.json`), which acts a
 
 The application uses Streamlit to provide an interactive web interface for performing banking operations.
 
-## Purpose of the Project
+## Purpose of the Project---
 
 The goal of this project is to demonstrate Python programming, data handling with JSON, and building interactive applications using Streamlit.
 bank management system 
